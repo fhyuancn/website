@@ -85,10 +85,10 @@ author:
   bio              : "Postdoc Fellow at University of Minnesota"
   location         : "St Paul, MN, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en"
+  email            : "fyuan#umn.edu"
+  researchgate     : "https://www.researchgate.net/profile/Fenghui-Yuan" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "fhyuancn"
   google_plus      :
   keybase          :
   instagram        :
