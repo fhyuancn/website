@@ -11,7 +11,7 @@ title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Fenghui Yuan"
 description              : &description "personal description"
-url                      : http://yuanlab.github.io
+url                      : http://www.fenghuiyuan.org
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fhyuancn/yuanlab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
