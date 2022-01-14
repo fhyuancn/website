@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Fenghui Yuan"
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
+  avatar           : "YuanWeb.jpg"
   bio              : "Postdoc Fellow at University of Minnesota"
   location         : "St Paul, MN, USA"
   employer         :
