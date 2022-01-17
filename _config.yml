@@ -81,8 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fenghui Yuan"
-  #avatar           : "profile.png"
-  avatar           : "YuanWeb.jpg"
+  avatar           : "YuanWeb.jpg" ##"profile.png"
   bio              : "Modeler of Carbon and Water Processses in Terrestrial Ecosystems<br> <br> Postdoc Fellow at University of Minnesota - Twin Cities, <a style='color: black;' href='https://swac.umn.edu/'>Department of Soil, Water and Climate</a>"
   location         : "St Paul, MN, USA"
   employer         :
