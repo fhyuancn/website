@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Welcome!a"
 title_separator          : "-"
 name                     : &name "Fenghui Yuan"
 description              : &description "personal description"
