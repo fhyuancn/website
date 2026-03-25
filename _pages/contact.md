@@ -5,15 +5,15 @@ permalink: /contact/
 author_profile: true
 ---
 
-<form action="mailto:fyuan@umn.edu" method="POST" enctype="text/plain">
-  <label>Your email:</label>
-  <input type="email" name="YourEmail" required>
+Fenghui Yuan
 
-  <label>Your message:</label>
-  <textarea name="Message" required></textarea>
+Department of Soil, Water & Climate
+University of Minnesota – Twin Cities
 
-  <button type="submit">Send</button>
-</form>
+Address: 439 Borlaug Hall 1991 Upper Buford Circle St. Paul, MN 55108
+
+Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
+
 
 <div style="height: 70px;"></div>
 
