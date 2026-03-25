@@ -11,13 +11,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 First-Author Publications
 ======
 
-1.	Yuan F., et al. 2023. Evaluation and improvement of the E3SM land model for simulating energy and carbon fluxes in an Amazonian peatland. Agricultural and Forest Meteorology. doi:10.1016/j.agrformet.2023.109364.
-2.	Yuan F., et al. 2021. Hydrological feedbacks on peatland CH4 emission under warming and elevated CO2: a modeling study. Journal of Hydrology. doi:10.1016/j.jhydrol.2021.127137.
-3.	Yuan F., et al. 2021. An integrative model for soil biogeochemistry and methane processes: II. Warming and elevated CO2 effects on peatland CH4 emission. Journal of Geophysical Research-Biogeosciences. 126: e2020JG005963. https://doi.org/10.1029/2020JG005963.
-4.	Yuan F., et al. 2020. Rising vegetation activity dominates growing water use efficiency in the Asian permafrost region from 1900 to 2100. Science of The Total Environment. 736, 139587. https://doi.org/10.1016/j.scitotenv.2020.139587.
-5.	Yuan F., et al. 2020. A semiempirical model for horizontal distribution of surface wind speed leeward windbreaks. Agroforestry Systems. 2020, 94: 499-516. https://doi.org/10.1007/s10457-019-00417-0.
-6.	Liu J.\*, Yuan F.\*, et al. 2022. Warming-induced vegetation growth cancels out soil carbon-climate feedback in the northern Asian permafrost region in the 21st century. Environmental Research Letters. 17(8): 084009. http://doi.org/10.1088/1748-9326/ac7eda.
-7.	Zhu X.\*, Yuan F.\*, et al. 2022. Wetland conversion to cropland alters the microbes along soil profiles and over seasons. Catena. 214: 106282. https://doi.org/10.1016/j.catena.2022.106282
+1.	**Yuan F**., et al. 2023. Evaluation and improvement of the E3SM land model for simulating energy and carbon fluxes in an Amazonian peatland. Agricultural and Forest Meteorology. doi:10.1016/j.agrformet.2023.109364.
+2.	**Yuan F**., et al. 2021. Hydrological feedbacks on peatland CH4 emission under warming and elevated CO2: a modeling study. Journal of Hydrology. doi:10.1016/j.jhydrol.2021.127137.
+3.	**Yuan F**., et al. 2021. An integrative model for soil biogeochemistry and methane processes: II. Warming and elevated CO2 effects on peatland CH4 emission. Journal of Geophysical Research-Biogeosciences. 126: e2020JG005963. https://doi.org/10.1029/2020JG005963.
+4.	**Yuan F**., et al. 2020. Rising vegetation activity dominates growing water use efficiency in the Asian permafrost region from 1900 to 2100. Science of The Total Environment. 736, 139587. https://doi.org/10.1016/j.scitotenv.2020.139587.
+5.	**Yuan F**., et al. 2020. A semiempirical model for horizontal distribution of surface wind speed leeward windbreaks. Agroforestry Systems. 2020, 94: 499-516. https://doi.org/10.1007/s10457-019-00417-0.
+6.	Liu J.\*, **Yuan F.\***, et al. 2022. Warming-induced vegetation growth cancels out soil carbon-climate feedback in the northern Asian permafrost region in the 21st century. Environmental Research Letters. 17(8): 084009. http://doi.org/10.1088/1748-9326/ac7eda.
+7.	Zhu X.\*, **Yuan F.\***, et al. 2022. Wetland conversion to cropland alters the microbes along soil profiles and over seasons. Catena. 214: 106282. https://doi.org/10.1016/j.catena.2022.106282
 
 Corresponding/Last-Author Publications
 ======

@@ -19,22 +19,25 @@ Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
 
 <div style="height: 70px;"></div>
 
-<div style="position: relative; width:250px; height:250px; margin: 0 auto;overflow:hidden">
-  <div style="width:100%; height:100%; display:block;">
-      <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
+<div style="position: relative; width:250px; height:250px; margin:0 auto; overflow:hidden;">
+  <!-- Force script content to fill the container -->
+  <div style="width:100%; height:100%; display:block; position:relative;">
+    <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
   </div>
+
+  <!-- Text overlay -->
   <div style="
     position: absolute;
-    bottom: 2px; /* distance from bottom */
+    bottom: 2px;
     left: 0;
     width: 100%;
     text-align: center;
     font-size: 12px;
     color: white;
-    background: none;  /* semi-transparent background */
     padding: 0;
     margin: 0;
     line-height: 1;
+    pointer-events: none;   /* ensures clicks pass through to map */
   ">
     from March 2026
   </div>
