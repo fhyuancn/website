@@ -19,7 +19,7 @@ Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
 
 <div style="height: 70px;"></div>
 
-<div style="position: relative; width:250px; height:250px; margin: 0 auto;overflow:hidden;">
+<div style="position: relative; width:250px; height:250px; margin: 0 auto;overflow:hidden;line-height:0;">
 
   <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
 
