@@ -5,6 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
+<br/>
+
 Fenghui Yuan
 
 Department of Soil, Water & Climate
@@ -17,12 +19,21 @@ Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
 
 <div style="height: 70px;"></div>
 
-<div style="text-align: center;line-height: 1;">
-  
-  <div style="width:250px; height:250px; margin: 0 auto; overflow:hidden; padding:0;">
-    <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
-  </div>
-  <div style="margin:0; padding:0;font-size: 14px;line-height:1;">
+<div style="position: relative; width:250px; height:250px; margin: 0 auto;overflow:hidden;">
+
+  <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
+
+  <div style="
+    position: absolute;
+    bottom: 3px; /* distance from bottom */
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    background: rgba(0,0,0,0.5);  /* semi-transparent background */
+    padding: 2px 0;
+  ">
     from March 2026
   </div>
 
