@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<span style="font-size:80%;">
+
 {% include base_path %}
 
 Education
@@ -62,3 +64,4 @@ Service and leadership
   * 2023--present   American Meteorological Society (AMS)
   * 2022--present   European Geosciences Union (EGU)
 
+</span>
