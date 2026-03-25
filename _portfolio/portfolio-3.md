@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Mechanistic insights from manipulative experiments: Plant physiology and soil microbial responses to environmental stress"
+excerpt: "During my Ph.D. and subsequent mentoring of graduate students, I have investigated how soil moisture, nutrient dynamics, and environmental variability regulate ecosystem function across forest, wetland, and agricultural systems, using laboratory microbial and physiological analyses, photosynthetic measurements, and eddy covariance observations. <br/><img src='/images/Yuan_research_3.png'>"
 collection: portfolio
 ---
 
