@@ -85,7 +85,7 @@ author:
   name             : "Fenghui Yuan"
   avatar           : YuanWeb.jpg #/images/ ##"profile.png"
   #bio              : "Modeler of Carbon and Water Processses in Terrestrial Ecosystems<br> <br> Research Scientist at University of Minnesota - Twin Cities, <a style='color: black;' href='https://swac.umn.edu/'>Department of Soil, Water and Climate</a>"
-  bio              : "Research Scientist<br> <br>University of Minnesota - Twin Cities, <a style='color: black;' href='https://swac.umn.edu/'>Department of Soil, Water and Climate</a>"
+  bio              : "Research Scientist<br> <br><a href='https://biometeorology.umn.edu/'>Department of Soil, Water and Climate</a> <br> University of Minnesota - Twin Cities  <br>, "
   location         : "St Paul, MN, USA"
   employer         :
   pubmed           : 
@@ -94,6 +94,7 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Fenghui-Yuan" # example: "https://www.researchgate.net/profile/yourprofile"
   orcid            : "https://orcid.org/0000-0003-1004-873X"
   researcherid     : "https://www.webofscience.com/wos/author/record/M-7424-2013"
+  linkedin         : "https://www.linkedin.com/in/fhyuan/"
   email            : #"fyuan#umn.edu"
   uri              :
   bitbucket        :
