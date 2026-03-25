@@ -1,15 +1,15 @@
-
 ---
 permalink: /
 title: ""
 excerpt: "About me"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<img src="/images/Yuan_landscape.jpeg" alt="">
+<img src="{{ '/images/Yuan_landscape.jpeg' | relative_url }}" alt="">
 
 Hello! Welcome to my personal website!
 
