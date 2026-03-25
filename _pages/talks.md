@@ -26,13 +26,13 @@ Poster
 ======
 * 2025 Yuan F., et al. Integrating Bottom-Up and Top-Down Modeling for Verifying Regional Greenhouse Gas Emissions. AI-LEAF Annual Meeting, Fort Collins, CO
 
-* 2025 Youmi Oh, Licheng Liu, Qing Zhu, Sparkle L Malone, Gavin McNicol, ..., Fenghui Yuan, Jianqiu Zheng, Kendalynn Morris, Kevin Rozmiarek, Kunxiaojia Yuan, Kyle Andreas Arndt, Lori Bruhwiler, Qing Ying, Stefan Metzger, Yi Yang. Next-Generation Modeling of Global Natural Methane Fluxes: Integrating Multi-scale Observations with Knowledge-Guided Machine Learning. AGU Fall Meeting. New Orleans, LA
+* 2025 Oh Y., Liu L., Zhu Q., ..., Yuan F., et al. Next-Generation Modeling of Global Natural Methane Fluxes: Integrating Multi-scale Observations with Knowledge-Guided Machine Learning. AGU Fall Meeting. New Orleans, LA
 
-* 2025 Xiaofeng Xu, Jingwei Zhang, Yihui Wang, Jonathan Stelling, Daniel Ricciuto, Xiaoying Shi, Fenghui Yuan, Jorge Rodrigues, Julia Gontijo, Paul Hanson. Interactive Impacts of Drought and Warming on CH4 Cycling in a Temperate Bog. SPRUCE All Hands Meeting, Minneapolis, MN
+* 2025 Xu X., Zhang J., Wang Y., ..., Yuan F., et al. Interactive Impacts of Drought and Warming on CH4 Cycling in a Temperate Bog. SPRUCE All Hands Meeting, Minneapolis, MN
 
-* 2024 Youmi Oh, Licheng Liu, Sparkle Malone, Gavin McNicol,.., Fenghui Yuan, Kunxiaojia Yuan, Jianqiu Zheng, Qing Zhu, and Qianlai Zhuang. ESIIL AI for Natural Methane Working Group (AI4NM): Community Effort to Harmonize Natural Methane Datasets using Knowledge Guided Machine Learning. AGU Fall Meeting. Washington, D.C.
+* 2024 Oh Y., Liu L., Malone S., ..., Yuan F., et al. ESIIL AI for Natural Methane Working Group (AI4NM): Community Effort to Harmonize Natural Methane Datasets using Knowledge Guided Machine Learning. AGU Fall Meeting. Washington, D.C.
 
-* 2024 Ning Chen, Fenghui Yuan, Xianwei Wang, Changchun Song, Xiaofeng Xu. Northern Peatland Vegetation Unfazed by Atmospheric Drought. AGU Fall Meeting. Washington, D.C.
+* 2024 Chen N., Yuan F., et al.. Northern Peatland Vegetation Unfazed by Atmospheric Drought. AGU Fall Meeting. Washington, D.C.
 
 * 2023 Yuan F., et al. Biophysical Processes and Feedback Mechanisms Controlling the Methane Budget of an Amazonian Peatland-3. Environmental System Science (ESS) Program PI Meeting. Bethesda, MD
 
