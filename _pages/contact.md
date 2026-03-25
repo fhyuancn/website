@@ -15,8 +15,16 @@ author_profile: true
   <button type="submit">Send</button>
 </form>
 
-<div style="height: 30px;"></div>
+<div style="height: 70px;"></div>
 
-<div style="width:250px; height:250px; margin: 0 auto; overflow:hidden;">
-  <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
+<div style="text-align: center;">
+  
+  <div style="width:250px; height:250px; margin: 0 auto; overflow:hidden;">
+    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffff"></script>
+  </div>
+
+  <div style="margin-top: 5px; font-size: 14px;">
+    from March 2026
+  </div>
+
 </div>
