@@ -28,12 +28,12 @@ Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
   <!-- Text overlay -->
   <div style="
     position: absolute;
-    bottom: 2px;
+    bottom: 0;
     left: 0;
     width: 100%;
     text-align: center;
     font-size: 12px;
-    color: white;
+    color: black;
     padding: 0;
     margin: 0;
     line-height: 1;
