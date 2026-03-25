@@ -1,6 +1,7 @@
+
 ---
 permalink: /
-title: "Fenghui Yuan's academic personal website"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-My research advances an integrated understanding of water–carbon dynamics in natural and agricultural ecosystems under environmental variability and global change. I combine observations, experiments, and process-based modeling within a Model–Experiment Integration (ModEx) framework to reduce key uncertainties in predicting biogeochemical processes. My work places particular emphasis on the coupling of hydrological and physical processes and their implications for ecosystem resilience and agricultural sustainability.
+<img src="/images/Yuan_landscape.jpeg" alt="">
+
+Hello! Welcome to my personal website!
+
+My name is Fenghui (pronounced "fown-hui"). My research advances an integrated understanding of water–carbon dynamics in natural and agricultural ecosystems under environmental variability and global change. I combine observations, experiments, and process-based modeling within a Model–Experiment Integration (ModEx) framework to reduce key uncertainties in predicting biogeochemical processes. My work places particular emphasis on the coupling of hydrological and physical processes and their implications for ecosystem resilience and agricultural sustainability.
 
 Specifically, my research focuses on:
 

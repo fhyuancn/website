@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!a"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Fenghui Yuan"
 description              : &description "personal description"
@@ -84,7 +84,8 @@ analytics:
 author:
   name             : "Fenghui Yuan"
   avatar           : YuanWeb.jpg #/images/ ##"profile.png"
-  bio              : "Modeler of Carbon and Water Processses in Terrestrial Ecosystems<br> <br> Research Scientist at University of Minnesota - Twin Cities, <a style='color: black;' href='https://swac.umn.edu/'>Department of Soil, Water and Climate</a>"
+  #bio              : "Modeler of Carbon and Water Processses in Terrestrial Ecosystems<br> <br> Research Scientist at University of Minnesota - Twin Cities, <a style='color: black;' href='https://swac.umn.edu/'>Department of Soil, Water and Climate</a>"
+  bio              : "Research Scientist<br> <br>University of Minnesota - Twin Cities, <a style='color: black;' href='https://swac.umn.edu/'>Department of Soil, Water and Climate</a>"
   location         : "St Paul, MN, USA"
   employer         :
   pubmed           : 
