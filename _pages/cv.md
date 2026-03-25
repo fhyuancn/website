@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2025- present: Research Scientist, University of Minnesota
-* 2023-24: Adjoint Professorship, Chinese Academy of Sciences
+* 2022-23: Adjoint Professorship, Chinese Academy of Sciences
 * 2020-24: Postdoctoral Associate, University of Minnesota
 * 2018-20: Postdoctoral Fellow, San Diego State University
 * 2013-18: Assistant Professor, Chinese Academy of Sciences
@@ -61,9 +61,9 @@ Service and leadership
   * 2022 Ecological Society of America (ESA) Annual Meeting
 
 * Journal Reviewer
-  * 2016-present Geophysical Research Letters, Global Change Biology, Journal of Geophysical Research–Atmospheres, Agricultural and Forest Meteorology, Nature Communications, Geoscientific Model Development, Hydrology and Earth System Sciences, Atmospheric Environment, Global Ecology and Biogeography, Geoscientific Model Development, npj Climate and Atmospheric Science, Critical Reviews in Environmental Science and Technology, Theoretical and Applied Climatology, Egusphere, Frontiers in Climate, etc. (>25 journals)
+  * Geophysical Research Letters, Global Change Biology, Journal of Geophysical Research–Atmospheres, Agricultural and Forest Meteorology, Nature Communications, Geoscientific Model Development, Hydrology and Earth System Sciences, Atmospheric Environment, Global Ecology and Biogeography, Geoscientific Model Development, npj Climate and Atmospheric Science, Critical Reviews in Environmental Science and Technology, Theoretical and Applied Climatology, Egusphere, Frontiers in Climate, etc. (>25 journals)
 
-* *Society Membership
+* Society Membership
   * 2020--present   American Geophysical Union (AGU)
   * 2021--present   Ecological Society of America (ESA)
   * 2023--present   American Meteorological Society (AMS)
