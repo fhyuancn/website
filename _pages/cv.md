@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<div style="font-size:80%;"></div>
+{% include base_path %}
 
-  {% include base_path %}
+<div style="font-size:80%;"></div>
 
   Education
   ======
