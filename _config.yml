@@ -247,6 +247,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # sitemap    
+  - scope:
+      path: "assets" # or "blog/page" for paginated URLs
+    values:
+      sitemap: false
 
 # Sass/SCSS
 sass:
