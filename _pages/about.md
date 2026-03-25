@@ -11,7 +11,7 @@ redirect_from:
 
 <img src="{{ '/images/Yuan_landscape.jpeg' | relative_url }}" alt="">
 
-Hello! My name is Fenghui (pronounced "fown-hui").
+Hello! My name is **Fenghui** (pronounced "fown-hui").
 
 My research advances an integrated understanding of water–carbon dynamics in natural and agricultural ecosystems under environmental variability and global change.
 

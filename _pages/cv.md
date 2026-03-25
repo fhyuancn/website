@@ -43,8 +43,8 @@ Service and leadership
   * 2024-present   USDA Artificial Intelligence Research Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)
 
 * Editorial Role
-  * 2022--present   Frontiers in Forests and Global Change: Associate Editor
-  * 2024--present   Biology: Editor
+  * 2022--present   *Frontiers in Forests and Global Change*: Associate Editor
+  * 2024--present   *Biology*: Editor
 
 * Grant Panel Reviewer
   * 2023 Environmental System Science (ESS) program, Office of Biological and Environmental Research (BER), Department of Energy
@@ -54,7 +54,7 @@ Service and leadership
   * 2022 Ecological Society of America (ESA) Annual Meeting
 
 * Journal Reviewer
-  * Geophysical Research Letters, Global Change Biology, Journal of Geophysical Research–Atmospheres, Agricultural and Forest Meteorology, Nature Communications, Geoscientific Model Development, Hydrology and Earth System Sciences, Atmospheric Environment, Global Ecology and Biogeography, Geoscientific Model Development, npj Climate and Atmospheric Science, Critical Reviews in Environmental Science and Technology, Theoretical and Applied Climatology, Egusphere, Frontiers in Climate, etc. (>25 journals)
+  * *Geophysical Research Letters, Global Change Biology, Journal of Geophysical Research–Atmospheres, Agricultural and Forest Meteorology, Nature Communications, Geoscientific Model Development, Hydrology and Earth System Sciences, Atmospheric Environment, Global Ecology and Biogeography, Geoscientific Model Development, npj Climate and Atmospheric Science, Critical Reviews in Environmental Science and Technology, Theoretical and Applied Climatology, Egusphere, Frontiers in Climate*, etc. (>25 journals)
 
 * Society Membership
   * 2020--present   American Geophysical Union (AGU)
