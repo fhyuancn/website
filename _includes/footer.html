@@ -20,11 +20,14 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All rights reserved.
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; padding: 0 20px;"> 
+  <!-- Left: copyright -->
+  <div style="text-align:left;">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All rights reserved.
+  </div>
+  <!-- Right: visitor map -->
+  <div style="width:120px; height:auto; overflow:hidden;">
+    <script type="text/javascript" id="mapmyvisitors"
+       src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
 </div>
-
-<div style="width:100px; height:auto; margin:auto; overflow:hidden;">
-  <script type="text/javascript" id="mapmyvisitors"
-     src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
 </div>
