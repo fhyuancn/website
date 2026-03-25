@@ -12,11 +12,6 @@ I taught a module on process-based crop modeling.
 
 Because students in this program came from diverse backgrounds, including soil science, agronomy, and data science, I designed the course to bridge disciplinary perspectives. I began with an interactive “What is a model?” discussion, introducing the principles of process-based modeling and how models represent biological and environmental processes. Students then worked in breakout groups to construct a simple crop model, allowing them to translate theoretical concepts into practical modeling exercises. This approach encouraged active learning and helped students understand how models can be used to address real-world agricultural and environmental challenges.
 
-Heading 1
-======
+<img src="{{ '/images/Yuan_teaching_1.png' | relative_url }}" alt="">
 
-Heading 2
-======
-
-Heading 3
-======
+<img src="{{ '/images/Yuan_teaching_2.png' | relative_url }}" alt="">
