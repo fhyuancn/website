@@ -24,16 +24,10 @@ Work experience
 * 2013-18: Assistant Professor, Chinese Academy of Sciences
 * 2008-10: Research Associate, Chinese Academy of Sciences
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
