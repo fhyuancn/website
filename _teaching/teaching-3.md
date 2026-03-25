@@ -2,7 +2,7 @@
 title: "Teaching in Globally Diverse Classes Program"
 collection: teaching
 type: "Training"
-permalink: /teaching/teaching-2
+permalink: /teaching/teaching-3
 venue: "University of Minnesota"
 date: 2025-01-01
 location:
