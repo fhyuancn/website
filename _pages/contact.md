@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-<br/>
+<div style="height: 30px;"></div>
 
 Fenghui Yuan
 
@@ -25,14 +25,14 @@ Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
 
   <div style="
     position: absolute;
-    bottom: 3px; /* distance from bottom */
+    bottom: 0; /* distance from bottom */
     left: 0;
     width: 100%;
     text-align: center;
     font-size: 12px;
     color: white;
-    background: rgba(0,0,0,0.5);  /* semi-transparent background */
-    padding: 2px 0;
+    background: none;  /* semi-transparent background */
+    padding: 0;
   ">
     from March 2026
   </div>
