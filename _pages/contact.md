@@ -14,3 +14,8 @@ author_profile: true
 
   <button type="submit">Send</button>
 </form>
+
+
+<div style="width:150px; height:150px; margin: 0 auto; overflow:hidden;">
+  <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
+</div>
