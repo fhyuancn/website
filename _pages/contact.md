@@ -19,13 +19,13 @@ Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
 
 <div style="height: 70px;"></div>
 
-<div style="position: relative; width:250px; height:250px; margin: 0 auto;overflow:hidden;line-height:0;">
-
-  <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
-
+<div style="position: relative; width:250px; height:250px; margin: 0 auto;overflow:hidden">
+  <div style="width:100%; height:100%; display:block;">
+      <script type="text/javascript" id="mapmyvisitors" src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Gwowiu2jFTkuoU8oZM2V0o0ancP41zrnoRkNPTKp9W8&cmo=ad0d0d&cmn=0dba0d'></script>
+  </div>
   <div style="
     position: absolute;
-    bottom: 0; /* distance from bottom */
+    bottom: 2px; /* distance from bottom */
     left: 0;
     width: 100%;
     text-align: center;
@@ -33,6 +33,8 @@ Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
     color: white;
     background: none;  /* semi-transparent background */
     padding: 0;
+    margin: 0;
+    line-height: 1;
   ">
     from March 2026
   </div>
