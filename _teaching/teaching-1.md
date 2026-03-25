@@ -12,8 +12,8 @@ I taught a module on process-based crop modeling. Because students in this progr
 
 <div style="height: 70px;"></div>
 
-<img src="{{ '/images/Yuan_teaching_1_1.png' | relative_url }}" style="display:block; margin:auto; width:400px; height:auto;">
+<img src="{{ '/images/Yuan_teaching_1_1.png' | relative_url }}" style="display:block; margin:auto; width:500px; height:auto;">
 
 <div style="height: 70px;"></div>
 
-<img src="{{ '/images/Yuan_teaching_2_2.png' | relative_url }}" style="display:block; margin:auto; width:400px; height:auto;">
+<img src="{{ '/images/Yuan_teaching_2_2.png' | relative_url }}" style="display:block; margin:auto; width:500px; height:auto;">
