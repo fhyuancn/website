@@ -38,10 +38,9 @@ Teaching
   
 Service and leadership
 ======
-* International Working Group
+* National Working Group
   * 2023-present   Artificial Intelligence for Natural Methane Working Group (AI4NM, ESIIL)
-  * 2025-present   Global Methane Budget (GMB) of Global Carbon Project (GCP) working on ELM-SPRUCE model
-  * 2025-present   Global Nitrous Oxide Budget of Global Carbon Project (GCP) working on CLM-microbe model
+  * 2024-present   USDA Artificial Intelligence Research Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)
 
 * Editorial Role
   * 2022--present   Frontiers in Forests and Global Change: Associate Editor
