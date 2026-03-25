@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "University of Minnesota Undergraduate Scholars Program"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: 
+venue: "University of Minnesota, AI Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)"
+date: "Fall 2025"
+location: 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught a module on process-based crop modeling.
+
+Because students in this program came from diverse backgrounds, including soil science, agronomy, and data science, I designed the course to bridge disciplinary perspectives. I began with an interactive “What is a model?” discussion, introducing the principles of process-based modeling and how models represent biological and environmental processes. Students then worked in breakout groups to construct a simple crop model, allowing them to translate theoretical concepts into practical modeling exercises. This approach encouraged active learning and helped students understand how models can be used to address real-world agricultural and environmental challenges.
 
 Heading 1
 ======
