@@ -5,7 +5,8 @@ layout: single
 author_profile: true
 ---
 
-* Talk
+Talk
+======
 [7] 2026 Invited Seminar, Constraining peatland Methane Emission Uncertainty with Hybrid Models, Department of Biology, San Deigo State University.
 
 [6] 2025 Yuan F., et al. Integrating Bottom-Up and Top-Down Modeling for Verifying Regional Greenhouse Gas Emissions. AI-LEAF Annual Meeting, Fort Collins, CO
@@ -20,7 +21,9 @@ author_profile: true
 
 [1] 2019 Yuan F., et al. Warming and Elevated CO2 Stimulate CH4 Emission with Different Mechanisms in a Temperate Peatland. Ecological Society of America (ESA) Annual Meeting. Louisville, KY
 
-* Poster
+
+Poster
+======
 [10] 2025 Yuan F., et al. Integrating Bottom-Up and Top-Down Modeling for Verifying Regional Greenhouse Gas Emissions. AI-LEAF Annual Meeting, Fort Collins, CO
 
 [9] 2025 Youmi Oh, Licheng Liu, Qing Zhu, Sparkle L Malone, Gavin McNicol, ..., Fenghui Yuan, Jianqiu Zheng, Kendalynn Morris, Kevin Rozmiarek, Kunxiaojia Yuan, Kyle Andreas Arndt, Lori Bruhwiler, Qing Ying, Stefan Metzger, Yi Yang. Next-Generation Modeling of Global Natural Methane Fluxes: Integrating Multi-scale Observations with Knowledge-Guided Machine Learning. AGU Fall Meeting. New Orleans, LA
