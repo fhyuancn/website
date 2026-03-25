@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Ecology (Ecometeorology), University of Chinese Academy of Sciences
+* M.Sc in Ecology (Ecometeorology), Graduate School of University of Chinese Academy
+* B.Sc in Forestry, University of Shandong Agriculture
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025- present: Research Scientist, University of Minnesota
+* 2023-24: Adjoint Professorship, Chinese Academy of Sciences
+* 2020-24: Postdoctoral Associate, University of Minnesota
+* 2018-20: Postdoctoral Fellow, San Diego State University
+* 2013-18: Assistant Professor, Chinese Academy of Sciences
+* 2008-10: Research Associate, Chinese Academy of Sciences
 
 Publications
 ======
