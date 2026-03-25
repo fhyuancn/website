@@ -90,8 +90,11 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en"
-  email            : #"fyuan#umn.edu"
+  googlescholar2   : "https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Fenghui-Yuan" # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0000-0003-1004-873X"
+  researcherid     : https://www.webofscience.com/wos/author/record/M-7424-2013
+  email            : #"fyuan#umn.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +109,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-1004-873X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -118,7 +120,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  googlescholar2    : "https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en"
 
 # Reading Files
 include:
