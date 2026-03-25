@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI-Enhanced Ecosystem Modeling"
+excerpt: "To address limitations of traditional models in capturing system heterogeneity and nonlinear responses, my recent work integrates artificial intelligence (AI) with process-based modeling through knowledge-guided machine learning (KGML) frameworks. These hybrid approaches encode mechanistic constraints within data-driven architectures, enabling improved predictions of biogeochemical responses, plant growth, and water use across heterogeneous landscapes. <br/><img src='/images/Yuan_research_3.png'>"
 collection: portfolio
 ---
 

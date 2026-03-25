@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Process-Based Modeling of Water–Carbon Dynamics"
+excerpt: "A central and sustained contribution of my postdoctoral research is improving hydrological and biogeochemical process representation in ecosystem and land surface models. I have contributed to the development of the ELM-SPRUCE modeling framework within the DOE-supported Energy Exascale Earth System Model (E3SM), improving simulations of methane dynamics by incorporating water table variability, soil hydrology, plant regulation, and microbial processes across boreal and tropical systems. <br/><img src='/images/Yuan_research_3.png'>"
 collection: portfolio
 ---
 
