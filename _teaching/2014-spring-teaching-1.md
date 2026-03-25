@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: 
 venue: "University of Minnesota, AI Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)"
-date: "Fall 2025"
+date: 2025-09-01
 location: 
 ---
 
