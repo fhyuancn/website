@@ -4,7 +4,9 @@ excerpt: "To address limitations of traditional models in capturing system heter
 collection: portfolio
 ---
 
-<img src="{{ '/images/Yuan_research_1.png' | relative_url }}" alt="">
+<div style="height: 70px;"></div>
+
+<img src="{{ '/images/Yuan_research_1.png' | relative_url }}" style="display:block; margin:auto; width:700px; height:auto;">
 
 <div style="height: 70px;"></div>
 

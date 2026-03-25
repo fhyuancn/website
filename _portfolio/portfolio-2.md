@@ -4,7 +4,9 @@ excerpt: "A central and sustained contribution of my postdoctoral research is im
 collection: portfolio
 ---
 
-<img src="{{ '/images/Yuan_research_2.png' | relative_url }}" alt="">
+<div style="height: 70px;"></div>
+
+<img src="{{ '/images/Yuan_research_2.png' | relative_url }}" style="display:block; margin:auto; width:650px; height:auto;">
 
 <div style="height: 70px;"></div>
 

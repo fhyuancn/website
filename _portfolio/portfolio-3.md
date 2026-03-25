@@ -4,7 +4,9 @@ excerpt: "During my Ph.D. and subsequent mentoring of graduate students, I have 
 collection: portfolio
 ---
 
-<img src="{{ '/images/Yuan_research_3.png' | relative_url }}" alt="">
+<div style="height: 70px;"></div>
+
+<img src="{{ '/images/Yuan_research_3.png' | relative_url }}" style="display:block; margin:auto; width:600px; height:auto;">
 
 <div style="height: 70px;"></div>
 
