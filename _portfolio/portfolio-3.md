@@ -6,4 +6,6 @@ collection: portfolio
 
 <img src="{{ '/images/Yuan_research_3.png' | relative_url }}" alt="">
 
+<div style="height: 70px;"></div>
+
 During my Ph.D. and subsequent mentoring of graduate students, I have investigated how soil moisture, nutrient dynamics, and environmental variability regulate ecosystem function across forest, wetland, and agricultural systems, using laboratory microbial and physiological analyses, photosynthetic measurements, and eddy covariance observations.
