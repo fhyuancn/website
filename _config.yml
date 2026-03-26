@@ -9,9 +9,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Fenghui Yuan ｜ Research Scientist"
 title_separator          : "-"
-name                     : &name "Fenghui Yuan ｜ Research Scientist"
+name                     : &name "Fenghui Yuan"
 description              : &description "He works to achieve a better understanding of water–carbon dynamics in terrestrial ecosystems and to improve modeling approaches for reducing uncertainties in ecosystem responses."
 url                      : https://www.fenghuiyuan.org
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
