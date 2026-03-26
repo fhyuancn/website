@@ -11,8 +11,8 @@
 locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
-name                     : &name "Fenghui Yuan"
-description              : &description "Fenghui Yuan"
+name                     : &name "Fenghui Yuan ｜ Research Scientist"
+description              : &description "He works to achieve a better understanding of water–carbon dynamics in terrestrial ecosystems and to improve modeling approaches for reducing uncertainties in ecosystem responses."
 url                      : https://www.fenghuiyuan.org
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fhyuancn/website.github.io"
