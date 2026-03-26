@@ -13,14 +13,12 @@ redirect_from:
 
 Hello! My name is **Fenghui** (pronounced "fown-hui").
 
-My research advances an integrated understanding of water–carbon dynamics in natural and agricultural ecosystems under environmental variability and global change.
+My work focuses on understanding water–carbon dynamics in natural and agricultural ecosystems as the environment changes. I combine field observations, experiments, and process-based modeling with data-driven approaches in a Model–Experiment Integration (ModEx) framework to reduce uncertainties in predicting how ecosystems respond. Through this work, I also engage in teaching and mentoring, helping students and collaborators develop skills in ecosystem science and modeling.
 
-I combine observations, experiments, and process-based modeling within a Model–Experiment Integration (ModEx) framework to reduce key uncertainties in predicting biogeochemical processes. My work places particular emphasis on the coupling of hydrological and physical processes and their implications for ecosystem resilience and agricultural sustainability.
+Specifically, my research interests include:
 
-Specifically, my research focuses on:
+(1) Quantifying how environmental drivers, plant traits, and soil microbial processes regulate carbon cycling and water-use efficiency, particularly in sensitive systems such as wetlands and croplands undergoing land-use change.
 
-(1) Quantifying how environmental drivers, plant traits, and soil microbial processes regulate carbon cycling and water-use efficiency, particularly in environmentally sensitive systems and those undergoing land-use change (e.g., wetlands and croplands);
+(2) Improving process-based models by integrating field observations, manipulative experiments, and data-driven approaches to better represent water–soil–plant interactions under changing environmental conditions.
 
-(2) Improving process-based models by integrating field observations, manipulative experiments, and data-driven approaches to better represent water–soil–plant interactions under drought and environmental change;
-
-(3) Developing AI-enabled predictive frameworks to inform sustainable land management and evaluate trade-offs among land productivity, resource use, and environmental benefits.
+(3) Developing Artificial Intelligence (AI)-enabled predictive frameworks to inform sustainable land management and evaluate trade-offs among land productivity, resource use, and environmental outcomes.
