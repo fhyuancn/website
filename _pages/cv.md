@@ -41,21 +41,26 @@ Service and leadership
 * National Working Group
   * 2023-present   Artificial Intelligence for Natural Methane Working Group (AI4NM, ESIIL)
   * 2024-present   USDA Artificial Intelligence Research Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)
+<div style="height: 70px;"></div>
 
 * Editorial Role
   * 2022--present   *Frontiers in Forests and Global Change*: Associate Editor
   * 2024--present   *Biology*: Editor
+<div style="height: 70px;"></div>
 
 * Grant Panel Reviewer
   * 2023 Environmental System Science (ESS) program, Office of Biological and Environmental Research (BER), Department of Energy
 
+<div style="height: 70px;"></div>
 * Conference Abstract Reviewer
   * 2023 Ecological Society of America (ESA) Annual Meeting
   * 2022 Ecological Society of America (ESA) Annual Meeting
 
+<div style="height: 70px;"></div>
 * Journal Reviewer
   * *Geophysical Research Letters, Global Change Biology, Journal of Geophysical Research–Atmospheres, Agricultural and Forest Meteorology, Nature Communications, Geoscientific Model Development, Hydrology and Earth System Sciences, Atmospheric Environment, Global Ecology and Biogeography, Geoscientific Model Development, npj Climate and Atmospheric Science, Critical Reviews in Environmental Science and Technology, Theoretical and Applied Climatology, Egusphere, Frontiers in Climate*, etc. (>25 journals)
 
+<div style="height: 70px;"></div>
 * Society Membership
   * 2020--present   American Geophysical Union (AGU)
   * 2021--present   Ecological Society of America (ESA)
