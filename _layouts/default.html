@@ -7,8 +7,8 @@ layout: compress
 {% comment %}
   Automatically assign a sidebar for the homepage
 {% endcomment %}
-{% if page.url == "/" %}
-  {% assign page.sidebar = site.data.home_sidebar | default: [{"title": "Home"}] %}
+{% if page.url == "/" or page.url == "" or page.url == "/index.html" %}
+  {% assign page.sidebar = [{"title": "Home"}] %}
 {% endif %}
 
 <!doctype html>
