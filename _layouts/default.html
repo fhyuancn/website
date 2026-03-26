@@ -4,9 +4,11 @@ layout: compress
 
 {% include base_path %}
 
+{% comment %}
+  Automatically assign a sidebar for the homepage
+{% endcomment %}
 {% if page.url == "/" %}
-  {% assign page.sidebar = site.data.home_sidebar | default: 
-    [{"title": "Home"}] %}
+  {% assign page.sidebar = site.data.home_sidebar | default: [{"title": "Home"}] %}
 {% endif %}
 
 <!doctype html>
