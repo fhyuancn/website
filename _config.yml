@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Fenghui Yuan"
-description              : &description "personal description"
+description              : &description "Fenghui Yuan"
 url                      : https://www.fenghuiyuan.org
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fhyuancn/website.github.io"
