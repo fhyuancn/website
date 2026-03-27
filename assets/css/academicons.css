@@ -14,6 +14,16 @@
     font-weight: normal;
     font-style: normal;
 }
+
+.small-text {
+    font-size: 12pt;
+}
+
+/* Add gap after the Home menu item */
+.masthead__menu-item--lg.home-link {
+    margin-right: 30px; /* adjust to desired space */
+}
+
 .ai {
 	display:inline-block;
 	font:normal normal normal 14px/1 Academicons;
