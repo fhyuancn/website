@@ -1,10 +1,24 @@
 {% include base_path %}
 
-{% if page.author_profile or layout.author_profile or page.sidebar %}
+{% comment %}
+  If no sidebar is defined AND we are on homepage,
+  force a simple sidebar with "Home"
+{% endcomment %}
+
+{% assign sidebar_data = page.sidebar %}
+
+{% if sidebar_data == nil and (page.url == "/" or page.url == "" or page.url contains "index") %}
+  {% assign sidebar_data = [{"title": "Home"}] %}
+{% endif %}
+
+{% comment %} {% if page.author_profile or layout.author_profile or page.sidebar %}  {% endcomment %}
+{% if page.author_profile or layout.author_profile or sidebar_data %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
+  {% comment %} {% if page.sidebar %}  {% endcomment %}
+  {% if sidebar_data %}
+    {% for s in sidebar_data %}
+    {% comment %}  {% for s in page.sidebar %}  {% endcomment %}
       {% if s.image %}
         <img src=
         {% if s.image contains "://" %}
@@ -17,8 +31,10 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
+    {% comment %} {% if page.sidebar.nav %} {% endcomment %}
+    {% if sidebar_data.nav %}
+      {% comment %} {% include nav_list nav=page.sidebar.nav %} {% endcomment %}
+      {% include nav_list nav=sidebar_data.nav %}
     {% endif %}
   {% endif %}
   </div>
