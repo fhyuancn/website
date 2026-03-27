@@ -4,13 +4,6 @@ layout: compress
 
 {% include base_path %}
 
-{% comment %}
-  Automatically assign a sidebar for the homepage
-{% endcomment %}
-{% if page.url == "/" or page.url == "" or page.url == "/index.html" %}
-  {% assign page.sidebar = [{"title": "Home"}] %}
-{% endif %}
-
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
