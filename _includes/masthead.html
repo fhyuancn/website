@@ -7,8 +7,9 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <!-- Always show Home as first menu item -->
-          <li class="masthead__menu-item masthead__menu-item--lg">
-            <a href="{{ base_path }}/">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+          <!-- <li class="masthead__menu-item masthead__menu-item--lg"> -->
+          <li class="masthead__menu-item masthead__menu-item--lg home-link">
+            <a href="{{ base_path }}/">Home</a>
           </li>
 
           {% for link in site.data.navigation.main %}
