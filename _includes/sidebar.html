@@ -2,14 +2,21 @@
 
 {% comment %}
   Sidebar logic:
-  - If no sidebar is defined and we're on the homepage, show a simple "Home" menu
+  - If no sidebar is defined on the homepage, show a simple "Home" menu
   - Otherwise, use the page's sidebar data
 {% endcomment %}
 
 {% assign sidebar_data = page.sidebar %}
 
 {% if sidebar_data == nil and (page.url == "/" or page.url == "" or page.url contains "index" or page.layout == "home") %}
-  {% assign sidebar_data = [{"title": "Home"}] %}
+  {% assign sidebar_data = [
+    {
+      "title": "Home",
+      "nav": [
+        { "title": "Home", "url": "/" }
+      ]
+    }
+  ] %}
 {% endif %}
 
 {% if page.author_profile or layout.author_profile or sidebar_data %}
@@ -42,8 +49,8 @@
 
       {% endfor %}
 
-      {% if sidebar_data.nav %}
-        {% include nav_list nav=sidebar_data.nav %}
+      {% if sidebar_data[0].nav %}
+        {% include nav_list nav=sidebar_data[0].nav %}
       {% endif %}
 
     {% endif %}
