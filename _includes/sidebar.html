@@ -11,14 +11,14 @@
   {% assign sidebar_data = [{"title": "Home"}] %}
 {% endif %}
 
-{% comment %} {% if page.author_profile or layout.author_profile or page.sidebar %}  {% endcomment %}
+<!-- {% if page.author_profile or layout.author_profile or page.sidebar %}  {% endcomment %} -->
 {% if page.author_profile or layout.author_profile or sidebar_data %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% comment %} {% if page.sidebar %}  {% endcomment %}
+  <!--  {% if page.sidebar %}  -->
   {% if sidebar_data %}
     {% for s in sidebar_data %}
-    {% comment %}  {% for s in page.sidebar %}  {% endcomment %}
+    <!--  {% for s in page.sidebar %}  -->
       {% if s.image %}
         <img src=
         {% if s.image contains "://" %}
@@ -31,9 +31,9 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
-    {% comment %} {% if page.sidebar.nav %} {% endcomment %}
+    <!--  {% if page.sidebar.nav %} -->
     {% if sidebar_data.nav %}
-      {% comment %} {% include nav_list nav=page.sidebar.nav %} {% endcomment %}
+      <!--  {% include nav_list nav=page.sidebar.nav %} -->
       {% include nav_list nav=sidebar_data.nav %}
     {% endif %}
   {% endif %}
