@@ -24,11 +24,11 @@ Specifically, my research interests include:
 * **AI-driven modeling**: Developing Artificial Intelligence (AI)-enabled predictive frameworks to inform sustainable land management and evaluate trade-offs among land productivity, resource use, and environmental outcomes<sup>[<a href="https://cu-esiil.github.io/AI-for-Natural-Methane/">19</a>, <a href="https://cse.umn.edu/aileaf">20</a>, <a href="https://ess.science.energy.gov/ai4ch4/">21</a>,<a href="https://doi.org/10.3389/fenvs.2024.1505987">22</a>,<a href="https://doi.org/10.3390/rs13122242">13</a>]</sup>.
 
 
-<div style="height: 80px;"></div>
+<div style="height: 40px;"></div>
 
 **Recent News:**
 
-<div style="font-size: 10pt;">
+<div class="small-text">
 
   March 20, 2026  Submitted a proposal on ***interdisciplinary studies of trade-offs between environmental and economic benefits of biofuels in agroforestry systems***. Excited to collaborate with the team and grateful for Prof. <a href="https://cinram.umn.edu/dean-current">Dean Current</a>’s leadership!
 
