@@ -7,9 +7,7 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
 
-
-First-Author Publications
-======
+<div style="height: 30px;"></div>
 
 1.	**Yuan F**., et al. 2023. Evaluation and improvement of the E3SM land model for simulating energy and carbon fluxes in an Amazonian peatland. *Agricultural and Forest Meteorology*. [https://doi.org/10.1016/j.agrformet.2023.109364](https://doi.org/10.1016/j.agrformet.2023.109364)
 2.	**Yuan F**., et al. 2021. Hydrological feedbacks on peatland CH4 emission under warming and elevated CO2: a modeling study. *Journal of Hydrology*. [https://doi.org/10.1016/j.jhydrol.2021.127137](https://doi.org/10.1016/j.jhydrol.2021.127137)
@@ -18,9 +16,6 @@ First-Author Publications
 5.	**Yuan F**., et al. 2020. A semiempirical model for horizontal distribution of surface wind speed leeward windbreaks. *Agroforestry Systems*. 2020, 94: 499-516. [https://doi.org/10.1007/s10457-019-00417-0](https://doi.org/10.1007/s10457-019-00417-0)
 6.	Liu J.\*, **Yuan F.\***, et al. 2022. Warming-induced vegetation growth cancels out soil carbon-climate feedback in the northern Asian permafrost region in the 21st century. *Environmental Research Letters*. 17(8): 084009. [http://doi.org/10.1088/1748-9326/ac7eda](http://doi.org/10.1088/1748-9326/ac7eda)
 7.	Zhu X.\*, **Yuan F.\***, et al. 2022. Wetland conversion to cropland alters the microbes along soil profiles and over seasons. *Catena*. 214: 106282. [https://doi.org/10.1016/j.catena.2022.106282](https://doi.org/10.1016/j.catena.2022.106282)
-
-Corresponding/Last-Author Publications
-======
 8.	Tian, J., Diao, H., Hogan, J.A., Wang, A., Wu, J., Dai, G., Cai, R. and **Yuan, F.**, 2026. Drought rather than nitrogen addition drives the coordination of hydraulic conductivity and photosynthesis in three coniferous tree species. *Journal of Hydrology*, p.135327. [https://doi.org/10.1016/j.jhydrol.2026.135327](https://doi.org/10.1016/j.jhydrol.2026.135327)
 9.	Tian, J., Zhang, H., Wang, A., Wu, J., Rosner, S., Zhu, K., Cai, R. and **Yuan, F**., 2025. Unravelling the combined effects of drought and nitrogen addition on carbon assimilation and reserves in Korean pine saplings. *Frontiers in Plant Science*, 16, p.1574468. [https://doi.org/10.3389/fpls.2025.1574468](https://doi.org/10.3389/fpls.2025.1574468)
 10.	Wang, N., Li, K., Zhu, X., Zuo, Y., Liu, J., Guo, Z., Sun, Y., Guo, Y., Song, C., **Yuan, F**. and Xu, X., 2026. Scale dependence of genome-derived microbial functional diversity informing soil functions. *Geoderma*, 465, p.117659. [https://doi.org/10.1016/j.geoderma.2025.117659](https://doi.org/10.1016/j.geoderma.2025.117659)
@@ -32,9 +27,6 @@ Corresponding/Last-Author Publications
 16.	Zhu, K., Wang, A., Wu, J., **Yuan, F**., Guan, D., Jin, C., Zhang, Y. and Gong, C., 2020. Effects of nitrogen additions on mesophyll and stomatal conductance in Manchurian ash and Mongolian oak, *Scientific Reports*, 10, 10038. [https://doi.org/10.1038/s41598-020-66886-x](https://doi.org/10.1038/s41598-020-66886-x)
 17.	Zhang, H., McDowell, N.G., Adams, H.D., Wang, A., Wu, J., Jin, C., Tian, J., Zhu, K., Li, W., Zhang, Y., **Yuan, F**. and Guan, D., 2020. Divergences in hydraulic conductance and anatomical traits of stems and leaves in three temperate tree species coping with drought, N addition and their interactions, *Tree Physiology*, 40: 230-244. [https://doi.org/10.1093/treephys/tpz135](https://doi.org/10.1093/treephys/tpz135)
 18.	Zhang, H., Li, W., Adams, H.D., Wang, A., Wu, J., Jin, C., Guan, D. and **Yuan, F.**, 2018. Responses of woody plant functional traits to nitrogen addition: A meta-analysis of leaf economics, gas exchange, and hydraulic traits, *Frontiers in Plant Science*, 9: 0-683. [https://doi.org/10.3389/fpls.2018.00683](https://doi.org/10.3389/fpls.2018.00683)
-
-Other Selected Publications
-======
 19.	Tian, J., Wang, A., **Yuan, F.**, Wu, J., Dai, G., Cai, R., Cui, Z. and Diao, H., 2026. Nitrogen addition does not mitigate drought-induced growth reduction in Pinus koraiensis: insights from hydraulics, gas exchange and carbon reserves. *Agricultural and Forest Meteorology*, 381, p.111111. [https://doi.org/10.1016/j.agrformet.2026.111111](https://doi.org/10.1016/j.agrformet.2026.111111) 
 20.	Yao, X., Zhang, Z., **Yuan, F**., Guo, Y. and Song, C., 2025. Biophysical effects of wetlands: latitudinal and seasonal variability. *Global Change Biology*. 31(10): e70525. [https://doi.org/10.1111/gcb.70525](https://doi.org/10.1111/gcb.70525)
 21.	Chen, N., Wang, X., **Yuan, F**., Song, Y., Sun, L., Zuo, Y., Wang, N., Yu, D., Zhou, L., Xu, X. Song, C., and Wang, Q., 2025. Warming-independent shortened snow cover duration enhances vegetation greening across northern permafrost region. *Communications Earth & Environment*. 6(1): 250. [https://doi.org/10.1038/s43247-025-02211-6](https://doi.org/10.1038/s43247-025-02211-6)
