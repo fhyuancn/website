@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Service"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Ecology (Ecometeorology), University of Chinese Academy of Sciences
-* M.Sc in Ecology (Ecometeorology), Graduate School of University of Chinese Academy
-
-Position
-======
-* 2025- present: Research Scientist, University of Minnesota
-* 2022-23: Adjoint Professorship, Chinese Academy of Sciences
-* 2020-24: Postdoctoral Associate, University of Minnesota
-* 2018-20: Postdoctoral Fellow, San Diego State University
-* 2013-18: Assistant Professor, Chinese Academy of Sciences
-
-Research
-======
-  <ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Service
 ======
 * National Working Group
   * 2023-present   Artificial Intelligence for Natural Methane Working Group (AI4NM, ESIIL)
