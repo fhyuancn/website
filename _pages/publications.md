@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-{: .h3}
+{: .small}
 9. 2026 [Genomic data and code](https://figshare.com/articles/dataset/Taxonomic_and_functional_diversity/29150900) associated with the paper "Scale dependence of genome-derived microbial functional diversity informing soil functions", published in *Geoderma*.
 8. 2025 [Data and code](https://zenodo.org/records/15618165) associated with the paper "Biophysical Effects of Wetlands: Latitudinal and Seasonal Variability" , published in *Global Change Biology*.
 7. 2025  [Data and code](https://figshare.com/s/c003f2fb5a8e5723632d) associated with the paper "Warming-independent shortened snow cover duration enhances vegetation greening across northern permafrost region", published in *npj Communications Earth & Environment*.
