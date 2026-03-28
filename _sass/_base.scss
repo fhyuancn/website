@@ -342,3 +342,9 @@ table th {
 table thead {
   display: none !important;
 }
+
+table td:first-child,
+table th:first-child { 
+  width: 200px; /* adjust this value as needed */ /* Optional for better layout: */ 
+  white-space: nowrap; /* prevents text wrapping */ 
+}
