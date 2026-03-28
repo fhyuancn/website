@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+{: .h3}
 National Working Group
 ======
 * 2024-present   [USDA Artificial Intelligence Research Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)](https://aiinstitutes.org/institute-personnel-grid/entry/11296/)
@@ -15,6 +16,7 @@ National Working Group
   
 <div style="height: 5px;"></div>
 
+{: .h3}
 Editorial Role
 ======
 * Associate Editor:  *[Frontiers in Forests and Global Change](https://loop.frontiersin.org/people/1286085/overview)* (2022--present)
@@ -22,12 +24,14 @@ Editorial Role
 
 <div style="height: 5px;"></div>
 
+{: .h3}
 Grant Panel Reviewer
 ======
 * 2023 Environmental System Science (ESS) program, Office of Biological and Environmental Research (BER), Department of Energy
 
 <div style="height: 5px;"></div>
 
+{: .h3}
 Conference Abstract Reviewer
 ======
 * 2023 Ecological Society of America (ESA) Annual Meeting
@@ -35,12 +39,14 @@ Conference Abstract Reviewer
 
 <div style="height: 5px;"></div>
 
+{: .h3}
 Journal Reviewer
 ======
 * *Geophysical Research Letters, Global Change Biology, Journal of Geophysical Research–Atmospheres, Agricultural and Forest Meteorology, Nature Communications, Geoscientific Model Development, Hydrology and Earth System Sciences, Atmospheric Environment, Global Ecology and Biogeography, Geoscientific Model Development, npj Climate and Atmospheric Science, Critical Reviews in Environmental Science and Technology, Theoretical and Applied Climatology, Egusphere, Frontiers in Climate*, etc. (>25 journals)
 
 <div style="height: 5px;"></div>
 
+{: .h3}
 Society Membership
 ======
 * American Geophysical Union (AGU)
