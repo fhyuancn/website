@@ -33,11 +33,11 @@ h1 {
   font-size: $type-size-3;
 }
 
-h2 {
+h2, .h2 {
   font-size: $type-size-4; // smallest heading, old: $type-size-4;
 }
 
-h3 {
+h3, .h3 {
   font-size: $type-size-5; // smallest heading, old: $type-size-5;
 }
 
