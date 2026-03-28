@@ -9,16 +9,16 @@ author_profile: true
 
 National Working Group
 ======
-* 2024-present   USDA Artificial Intelligence Research Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)
-* 2023-present   Artificial Intelligence for Natural Methane Working Group (AI4NM, ESIIL)
-* 2023 Artificial Intelligence for the Methane Cycle Workshop, Department of Energy
+* 2024-present   [USDA Artificial Intelligence Research Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)](https://aiinstitutes.org/institute-personnel-grid/entry/11296/)
+* 2023-present   [Artificial Intelligence for Natural Methane Working Group (AI4NM, ESIIL)](https://cu-esiil.github.io/AI-for-Natural-Methane/)
+* 2023 [Artificial Intelligence for the Methane Cycle Workshop, Department of Energy](https://ess.science.energy.gov/ai4ch4/)
   
 <div style="height: 5px;"></div>
 
 Editorial Role
 ======
-* Associate Editor:  *Frontiers in Forests and Global Change* (2022--present)
-* Editor:  *Biology* (2024--present)
+* Associate Editor:  *[Frontiers in Forests and Global Change](https://loop.frontiersin.org/people/1286085/overview)* (2022--present)
+* Editor:  *[Biology](https://www.mdpi.com/journal/biology/sectioneditors/Ecology)* (2024--present)
 
 <div style="height: 5px;"></div>
 
