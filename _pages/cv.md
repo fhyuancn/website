@@ -14,7 +14,7 @@ Education
 * Ph.D in Ecology (Ecometeorology), University of Chinese Academy of Sciences
 * M.Sc in Ecology (Ecometeorology), Graduate School of University of Chinese Academy
 
-Work experience
+Position
 ======
 * 2025- present: Research Scientist, University of Minnesota
 * 2022-23: Adjoint Professorship, Chinese Academy of Sciences
