@@ -54,7 +54,12 @@ h6 {
 }
 
 small, .small {
-  font-size: $type-size-4; // smallest heading, old: $type-size-6;
+  font-size: $type-size-6; // smallest heading, old: $type-size-6;
+}
+
+// Target Markdown small text specifically
+.md-content .small {
+  font-size: $type-size-5; // or $type-size-4
 }
 
 p {
