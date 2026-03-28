@@ -17,8 +17,8 @@ National Working Group
 
 Editorial Role
 ======
-* 2022--present   *Frontiers in Forests and Global Change*: Associate Editor
-* 2024--present   *Biology*: Editor
+* Associate Editor:  *Frontiers in Forests and Global Change* (2022--present)
+* Editor:  *Biology* (2024--present)
 
 <div style="height: 5px;"></div>
 
