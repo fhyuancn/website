@@ -16,6 +16,18 @@ author_profile: true
 8. 2023 [Global data](https://doi.org/10.6084/m9.figshare.17451893.v1) associated with the paper "The global biogeography of soil priming effect intensity", published in *Global Ecology and Biogeography*.
 9. 2022 [Genomic data](https://dataview.ncbi.nlm.nih.gov/object/PRJNA853804) associated with the paper "Metagenomic evidence of suppressed methanogenic pathways along soil profile after wetland conversion to cropland", published in *Frontiers in Microbiology*.
 
+
+<div style="height: 3px;"></div>
+
+Under Review/In Preparation
+======
+
+{: .small}
+1. **Yuan F**., et al. 2026. KGML-ELM: A Knowledge-Guided Machine Learning Framework for Modeling Long-Term Interannual Variability of Peatland Methane Emissions. (to be submitted).
+2. **Yuan F**., et al. 2026. Improving Energy Flux Simulations in Tropical Peatlands Using a Multilayer Canopy Model. (to be submitted)
+3. Zeng F., **Yuan F**., et al. 2026. Disentangling the Architectural Bias in Modeling Interannual Peatland Methane Variability. (under review)
+4. Guo Z., **Yuan F**., et al. 2026. Agricultural Impacts on Soil Particulate Organic Carbon: The Role of Edaphic Factors in Global Tillage and Fertilization Responses. *Land Degradation & Development*. (under revision)
+
 <div style="height: 5px;"></div>
 
 Selected Publications
@@ -33,10 +45,6 @@ Nature portfolio journal (2), Glob Change Biol (2), Agric For Meteorol (3), J Hy
 <div style="height: 3px;"></div>
 
 {: .h3}
-1. **Yuan F**., et al. 2026. KGML-ELM: A Knowledge-Guided Machine Learning Framework for Modeling Long-Term Interannual Variability of Peatland Methane Emissions. (to be submitted).
-2. **Yuan F**., et al. 2026. Improving Energy Flux Simulations in Tropical Peatlands Using a Multilayer Canopy Model. (to be submitted)
-3. Zeng F., **Yuan F**., et al. 2026. Disentangling the Architectural Bias in Modeling Interannual Peatland Methane Variability. (under review)
-4. Guo Z., **Yuan F**., et al. 2026. Agricultural Impacts on Soil Particulate Organic Carbon: The Role of Edaphic Factors in Global Tillage and Fertilization Responses. *Land Degradation & Development*. (under revision)
 1. **Yuan F**., et al. 2023. Evaluation and improvement of the E3SM land model for simulating energy and carbon fluxes in an Amazonian peatland. *Agricultural and Forest Meteorology*. [https://doi.org/10.1016/j.agrformet.2023.109364](https://doi.org/10.1016/j.agrformet.2023.109364)
 2.	**Yuan F**., et al. 2021. Hydrological feedbacks on peatland CH4 emission under warming and elevated CO2: a modeling study. *Journal of Hydrology*. [https://doi.org/10.1016/j.jhydrol.2021.127137](https://doi.org/10.1016/j.jhydrol.2021.127137)
 3.	**Yuan F**., et al. 2021. An integrative model for soil biogeochemistry and methane processes: II. Warming and elevated CO2 effects on peatland CH4 emission. *Journal of Geophysical Research-Biogeosciences*. 126: e2020JG005963. [https://doi.org/10.1029/2020JG005963](https://doi.org/10.1029/2020JG005963)
