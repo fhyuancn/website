@@ -8,7 +8,7 @@ author_profile: true
 {: .small}
 You can also find full list of my articles on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
 
-<div style="height: 15px;"></div>
+<div style="height: 5px;"></div>
 
 {: .small}
 Summary:
