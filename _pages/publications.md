@@ -1,11 +1,14 @@
 ---
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 layout: single
 author_profile: true
 ---
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
+
+<div style="height: 30px;"></div>
+Summary: Nature portfolio journal (2), Global Change Biology (2), Agricultural and Forest Meteorology (3), Journal of Hydrology (4), Journal of Geophysical Research-Atmospheres/Biogeosciences (2),  Journal of Hydrologic Engineering (2), Journal of Advances in Modeling Earth Systems (2), Soil Biology and Biochemistry (6), Field Crops Research (1), Global Ecology and Biogeography (2), Tree Physiology (3), Plant Physiology (1), Geoderma (3), Catena (3), Environmental Research Letters (2), Remote Sensing(2), Science of The Total Environment (4), Frontiers in Plant Science (2).
 
 <div style="height: 30px;"></div>
 
