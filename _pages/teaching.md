@@ -17,7 +17,7 @@ author_profile: true
 Mentoring
 ======
 
-* **2025 Master Student:** Fanchao Zeng. [Publication 1](https://doi.org/10.3389/fenvs.2024.1505987), Publication 2 (to be submitted)
+* **2025- Master Student:** Fanchao Zeng. [Publication 1](https://doi.org/10.3389/fenvs.2024.1505987), Publication 2 (to be submitted)
 
 * **2022-23 Ph.D Student:** Jinyuan Tian. Publication [1](https://doi.org/10.1016/j.jhydrol.2026.135327), [2](https://doi.org/10.3389/fpls.2025.1574468), [3](https://doi.org/10.1016/j.agrformet.2026.111111)
 
