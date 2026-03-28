@@ -30,10 +30,14 @@ The full list of my publications can be found on <a href="https://scholar.google
 Summary:
 Nature portfolio journal (2), Glob Change Biol (2), Agric For Meteorol (3), J Hydrol (4), J Geophys Res-Atmos/Biogeosci (2), J Hydrol Eng (2), J Adv Model Earth Syst (2), Soil Biol Biochem (6), Field Crops Res (1), Glob Ecol Biogeogr (2), Tree Physiol (3), Plant Physiol (1), Geoderma (3), Catena (3), Environ Res Lett (2), Remote Sens (2), Sci Total Environ (4), Front Plant Sci (2), etc.
 
-<div style="height: 5px;"></div>
+<div style="height: 3px;"></div>
 
 {: .h3}
-1.	**Yuan F**., et al. 2023. Evaluation and improvement of the E3SM land model for simulating energy and carbon fluxes in an Amazonian peatland. *Agricultural and Forest Meteorology*. [https://doi.org/10.1016/j.agrformet.2023.109364](https://doi.org/10.1016/j.agrformet.2023.109364)
+1. **Yuan F**., et al. 2026. KGML-ELM: A Knowledge-Guided Machine Learning Framework for Modeling Long-Term Interannual Variability of Peatland Methane Emissions. (to be submitted).
+2. **Yuan F**., et al. 2026. Improving Energy Flux Simulations in Tropical Peatlands Using a Multilayer Canopy Model. (to be submitted)
+3. Zeng F., **Yuan F**., et al. 2026. Disentangling the Architectural Bias in Modeling Interannual Peatland Methane Variability. (under review)
+4. Guo Z., **Yuan F**., et al. 2026. Agricultural Impacts on Soil Particulate Organic Carbon: The Role of Edaphic Factors in Global Tillage and Fertilization Responses. *Land Degradation & Development*. (under revision)
+1. **Yuan F**., et al. 2023. Evaluation and improvement of the E3SM land model for simulating energy and carbon fluxes in an Amazonian peatland. *Agricultural and Forest Meteorology*. [https://doi.org/10.1016/j.agrformet.2023.109364](https://doi.org/10.1016/j.agrformet.2023.109364)
 2.	**Yuan F**., et al. 2021. Hydrological feedbacks on peatland CH4 emission under warming and elevated CO2: a modeling study. *Journal of Hydrology*. [https://doi.org/10.1016/j.jhydrol.2021.127137](https://doi.org/10.1016/j.jhydrol.2021.127137)
 3.	**Yuan F**., et al. 2021. An integrative model for soil biogeochemistry and methane processes: II. Warming and elevated CO2 effects on peatland CH4 emission. *Journal of Geophysical Research-Biogeosciences*. 126: e2020JG005963. [https://doi.org/10.1029/2020JG005963](https://doi.org/10.1029/2020JG005963)
 4.	**Yuan F**., et al. 2020. Rising vegetation activity dominates growing water use efficiency in the Asian permafrost region from 1900 to 2100. *Science of The Total Environment*. 736, 139587. [https://doi.org/10.1016/j.scitotenv.2020.139587](https://doi.org/10.1016/j.scitotenv.2020.139587)
