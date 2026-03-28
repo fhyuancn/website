@@ -313,3 +313,30 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
+/* Remove all borders and background colors from tables */
+table, 
+table th, 
+table td {
+  border: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  padding: 0.25em 0.5em; /* optional for spacing */
+}
+
+/* Remove header background color */
+table thead {
+  background-color: transparent !important;
+}
+
+/* Optional: normalize header font weight & color */
+table th {
+  font-weight: normal;
+  color: inherit;
+}
+
+/* Optional: remove table header row completely */
+table thead {
+  display: none !important;
+}
