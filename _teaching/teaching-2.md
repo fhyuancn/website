@@ -8,7 +8,7 @@ date: 2025-01-01
 location:
 ---
 
-Through an 8-week Inclusive STEM Teaching Certificate Program at the University of Minnesota, I gained strategies for fostering equitable and inclusive learning environments. The program deepened my understanding of how students’ identities and backgrounds shape engagement in STEM classrooms, and strengthened my teaching by guiding me to create learning spaces that value diverse perspectives. Applying these insights, I designed classes that supported all students in actively engaging with ecosystem science and environmental research.
+Through an 8-week Inclusive STEM Teaching certificate program at the University of Minnesota, I gained strategies for fostering equitable and inclusive learning environments. The program deepened my understanding of how students’ identities and backgrounds shape engagement in STEM classrooms, and strengthened my teaching by guiding me to create learning spaces that value diverse perspectives. Applying these insights, I designed classes that supported all students in actively engaging with ecosystem science and environmental research.
 
 <div style="height: 70px;"></div>
 
