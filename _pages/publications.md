@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {: .small}
-You can also find full list of my articles on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
+The full list of my publications can be found on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
 
 <div style="height: 5px;"></div>
 
