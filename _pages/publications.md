@@ -23,10 +23,10 @@ Under Review/In Preparation
 ======
 
 {: .small}
-1. **Yuan F**., et al. 2026. KGML-ELM: A Knowledge-Guided Machine Learning Framework for Modeling Long-Term Interannual Variability of Peatland Methane Emissions. (to be submitted).
-2. **Yuan F**., et al. 2026. Improving Energy Flux Simulations in Tropical Peatlands Using a Multilayer Canopy Model. (to be submitted)
-3. Zeng F., **Yuan F**., et al. 2026. Disentangling the Architectural Bias in Modeling Interannual Peatland Methane Variability. (under review)
-4. Guo Z., **Yuan F**., et al. 2026. Agricultural Impacts on Soil Particulate Organic Carbon: The Role of Edaphic Factors in Global Tillage and Fertilization Responses. *Land Degradation & Development*. (under revision)
+1. **Yuan F**., et al. 2026. KGML-ELM: A Knowledge-Guided Machine Learning Framework for Modeling Long-Term Interannual Variability of Peatland Methane Emissions (to be submitted).
+2. **Yuan F**., et al. 2026. Improving Energy Flux Simulations in Tropical Peatlands Using a Multilayer Canopy Model (to be submitted).
+3. Zeng F., **Yuan F**., et al. 2026. Disentangling the Architectural Bias in Modeling Interannual Peatland Methane Variability (under review).
+4. Guo Z., **Yuan F**., et al. 2026. Agricultural Impacts on Soil Particulate Organic Carbon: The Role of Edaphic Factors in Global Tillage and Fertilization Responses. *Land Degradation & Development* (under revision).
 
 <div style="height: 5px;"></div>
 
