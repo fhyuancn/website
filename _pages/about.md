@@ -21,7 +21,7 @@ Specifically, my research interests include:
 
 * **Process-based modeling**: Improving process-based models by integrating field observations, manipulative experiments, and data-driven approaches to better represent water–soil–plant interactions under changing environmental conditions<sup>[<a href="https://doi.org/10.1029/2020JG005963">15</a>, <a href="https://doi.org/10.1016/j.jhydrol.2021.127137">16</a>,<a href="https://doi.org/10.1016/j.agrformet.2023.109364">17</a>,<a href="https://doi.org/10.1007/s10457-019-00417-0">18</a>]</sup>.
 
-* **AI-driven modeling**: Developing Artificial Intelligence (AI)-enabled predictive frameworks to inform sustainable land management and evaluate trade-offs among land productivity, resource use, and environmental outcomes<sup>[<a href="https://cu-esiil.github.io/AI-for-Natural-Methane/">19</a>, <a href="https://cse.umn.edu/aileaf">20</a>, <a href="https://ess.science.energy.gov/ai4ch4/">21</a>,<a href="https://doi.org/10.3389/fenvs.2024.1505987">22</a>,<a href="https://doi.org/10.3390/rs13122242">13</a>]</sup>.
+* **AI-driven modeling**: Developing Artificial Intelligence (AI)-enabled predictive frameworks to inform sustainable land management and evaluate trade-offs among land productivity, resource use, and environmental outcomes<sup>[<a href="https://cu-esiil.github.io/AI-for-Natural-Methane/">19</a>, <a href="https://cse.umn.edu/aileaf">20</a>, <a href="https://ess.science.energy.gov/ai4ch4/">21</a>,<a href="https://doi.org/10.3389/fenvs.2024.1505987">22</a>,<a href="https://doi.org/10.3390/rs13122242">23</a>]</sup>.
 
 
 <div style="height: 40px;"></div>
