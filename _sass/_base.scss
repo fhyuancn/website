@@ -316,35 +316,32 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 
 /* Remove all borders and background colors from tables */
-table, 
-table th, 
-table td {
+/* Make table use fixed layout to respect column widths */
+table {
+  table-layout: fixed;
+  width: 100%; /* Or set as needed */
+  border-collapse: collapse; /* good practice */
+}
+
+/* Remove all borders and background colors */
+table, table th, table td {
   border: none !important;
   background-color: transparent !important;
   box-shadow: none !important;
-  padding: 0.25em 0.5em; /* optional for spacing */
+  padding: 0.25em 0.5em;
   vertical-align: top;
   text-align: left;
 }
 
-/* Remove header background color */
-table thead {
-  background-color: transparent !important;
-}
-
-/* Optional: normalize header font weight & color */
-table th {
-  font-weight: normal;
-  color: inherit;
-}
-
-/* Optional: remove table header row completely */
+/* Hide the header row */
 table thead {
   display: none !important;
 }
 
+/* Set first column width */
+table col:first-child,
 table td:first-child,
-table th:first-child { 
-  width: 200px; /* adjust this value as needed */ /* Optional for better layout: */ 
-  white-space: nowrap; /* prevents text wrapping */ 
+table th:first-child {
+  width: 200px;
+  white-space: nowrap;
 }
