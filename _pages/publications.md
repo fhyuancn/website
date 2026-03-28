@@ -9,7 +9,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <div style="height: 30px;"></div>
 {: .h3}
-Summary: Nature portfolio journal (2), Global Change Biology (2), Agricultural and Forest Meteorology (3), Journal of Hydrology (4), Journal of Geophysical Research-Atmospheres/Biogeosciences (2),  Journal of Hydrologic Engineering (2), Journal of Advances in Modeling Earth Systems (2), Soil Biology and Biochemistry (6), Field Crops Research (1), Global Ecology and Biogeography (2), Tree Physiology (3), Plant Physiology (1), Geoderma (3), Catena (3), Environmental Research Letters (2), Remote Sensing(2), Science of The Total Environment (4), Frontiers in Plant Science (2).
+Summary:
+Nature portfolio journal (2), Glob Change Biol (2), Agric For Meteorol (3), J Hydrol (4), J Geophys Res-Atmos/Biogeosci (2), J Hydrol Eng (2), J Adv Model Earth Syst (2), Soil Biol Biochem (6), Field Crops Res (1), Glob Ecol Biogeogr (2), Tree Physiol (3), Plant Physiol (1), Geoderma (3), Catena (3), Environ Res Lett (2), Remote Sens (2), Sci Total Environ (4), Front Plant Sci (2)
 
 <div style="height: 30px;"></div>
 
