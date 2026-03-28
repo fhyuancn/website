@@ -4,11 +4,11 @@ permalink: /publications/
 layout: single
 author_profile: true
 ---
-{: .h3}
+{: .small}
 You can also find full list of my articles on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
 
 <div style="height: 15px;"></div>
-{: .h3}
+{: .small}
 Summary:
 Nature portfolio journal (2), Glob Change Biol (2), Agric For Meteorol (3), J Hydrol (4), J Geophys Res-Atmos/Biogeosci (2), J Hydrol Eng (2), J Adv Model Earth Syst (2), Soil Biol Biochem (6), Field Crops Res (1), Glob Ecol Biogeogr (2), Tree Physiol (3), Plant Physiol (1), Geoderma (3), Catena (3), Environ Res Lett (2), Remote Sens (2), Sci Total Environ (4), Front Plant Sci (2)
 
