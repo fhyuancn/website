@@ -7,10 +7,10 @@ main:
    - title: "Teaching & Mentoring"
      url: /teaching/ 
     
-   - title: "Publications"
+   - title: "Publication"
      url: /publications/
 
-   - title: "Presentations"
+   - title: "Presentation"
      url: /talks/    
 
   #- title: "Teaching"
