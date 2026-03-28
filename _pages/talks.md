@@ -18,7 +18,7 @@ Talk
 * 2019 **Yuan F**., et al. Warming and Elevated CO2 Stimulate CH4 Emission with Different Mechanisms in a Temperate Peatland. Ecological Society of America (ESA) Annual Meeting. Louisville, KY
 {: .h3}
 
-<div style="height: 8px;"></div>
+<div style="height: 15px;"></div>
 
 {: .h2}
 Poster
