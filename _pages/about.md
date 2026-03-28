@@ -27,7 +27,7 @@ Specifically, my research interests include:
 <div style="height: 40px;"></div>
 
 
-News:
+News
 ======
 
 {: .small}
