@@ -4,14 +4,16 @@ permalink: /publications/
 layout: single
 author_profile: true
 ---
-
+{: .h3}
 You can also find my articles on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
 
 <div style="height: 30px;"></div>
+{: .h3}
 Summary: Nature portfolio journal (2), Global Change Biology (2), Agricultural and Forest Meteorology (3), Journal of Hydrology (4), Journal of Geophysical Research-Atmospheres/Biogeosciences (2),  Journal of Hydrologic Engineering (2), Journal of Advances in Modeling Earth Systems (2), Soil Biology and Biochemistry (6), Field Crops Research (1), Global Ecology and Biogeography (2), Tree Physiology (3), Plant Physiology (1), Geoderma (3), Catena (3), Environmental Research Letters (2), Remote Sensing(2), Science of The Total Environment (4), Frontiers in Plant Science (2).
 
 <div style="height: 30px;"></div>
 
+{: .h3}
 1.	**Yuan F**., et al. 2023. Evaluation and improvement of the E3SM land model for simulating energy and carbon fluxes in an Amazonian peatland. *Agricultural and Forest Meteorology*. [https://doi.org/10.1016/j.agrformet.2023.109364](https://doi.org/10.1016/j.agrformet.2023.109364)
 2.	**Yuan F**., et al. 2021. Hydrological feedbacks on peatland CH4 emission under warming and elevated CO2: a modeling study. *Journal of Hydrology*. [https://doi.org/10.1016/j.jhydrol.2021.127137](https://doi.org/10.1016/j.jhydrol.2021.127137)
 3.	**Yuan F**., et al. 2021. An integrative model for soil biogeochemistry and methane processes: II. Warming and elevated CO2 effects on peatland CH4 emission. *Journal of Geophysical Research-Biogeosciences*. 126: e2020JG005963. [https://doi.org/10.1029/2020JG005963](https://doi.org/10.1029/2020JG005963)
