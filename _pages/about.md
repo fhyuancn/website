@@ -31,17 +31,10 @@ Recent News:
 ======
 
 {: .small}
-|            |  |
-|:---------- |:------|
+|                 |  |
+|:--------------- |:------|
 | March 20, 2026 | Submitted a proposal on ***interdisciplinary studies of trade-offs between environmental and economic benefits of biofuels in agroforestry systems***. Excited to collaborate with the team and grateful for Prof. [Dean Current](https://cinram.umn.edu/dean-current)’s leadership! |
 | March 14, 2026 | [A paper](https://doi.org/10.1016/j.jhydrol.2026.135327) titled ***Drought rather than nitrogen addition drives the coordination of hydraulic conductivity and photosynthesis in three coniferous tree species***, led by Ph.D. student Jinyuan Tian whom I mentored, has been accepted by *Journal of Hydrology*. Congratulations to all the authors! |
-
-
-{: .small}
-|            |  |
-|:---------- |:------|
-| March 20, 2026 | Submitted a proposal on ***interdisciplinary studies of trade-offs between environmental and economic benefits of biofuels in agroforestry systems***. Excited to collaborate with the team and grateful for Prof. <a href="https://cinram.umn.edu/dean">Dean</a>’s leadership! |
-| March 14, 2026 | <a href="https://doi.org/10.1016/j.jhydrol.2026">A paper</a> titled ***Drought rather than nitrogen addition drives photosynthesis in three coniferous tree species***, led by Ph.D. student Jin whom I mentored, has been accepted by <em>Journal of Hydrology</em>. Congratulations to all the authors! |
 | March 9, 2026 | Invited to give a seminar on ***Constraining Peatland Methane Emission Uncertainty with Hybrid Models*** at the Department of Biology, San Deigo State University.
 | March 9, 2026 | Invited to give a seminar on ***Constraining Peatland Methane Emission Uncertainty with Hybrid Models*** at the Department of Biology, San Deigo State University.
 | February 11, 2026 | Glad to give a presentation on ***ELM-KGML hybrid modeling*** to the KGML team at the LEAF Institute!
