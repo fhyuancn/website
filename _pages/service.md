@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: "Service"
 permalink: /service/
+layout: single
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
