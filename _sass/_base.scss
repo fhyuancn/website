@@ -323,6 +323,8 @@ table td {
   background-color: transparent !important;
   box-shadow: none !important;
   padding: 0.25em 0.5em; /* optional for spacing */
+  vertical-align: top;
+  text-align: left;
 }
 
 /* Remove header background color */
