@@ -5,14 +5,14 @@ layout: single
 author_profile: true
 ---
 {: .h3}
-You can also find my articles on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
+You can also find full list of my articles on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
 
-<div style="height: 30px;"></div>
+<div style="height: 15px;"></div>
 {: .h3}
 Summary:
 Nature portfolio journal (2), Glob Change Biol (2), Agric For Meteorol (3), J Hydrol (4), J Geophys Res-Atmos/Biogeosci (2), J Hydrol Eng (2), J Adv Model Earth Syst (2), Soil Biol Biochem (6), Field Crops Res (1), Glob Ecol Biogeogr (2), Tree Physiol (3), Plant Physiol (1), Geoderma (3), Catena (3), Environ Res Lett (2), Remote Sens (2), Sci Total Environ (4), Front Plant Sci (2)
 
-<div style="height: 30px;"></div>
+<div style="height: 15px;"></div>
 
 {: .h3}
 1.	**Yuan F**., et al. 2023. Evaluation and improvement of the E3SM land model for simulating energy and carbon fluxes in an Amazonian peatland. *Agricultural and Forest Meteorology*. [https://doi.org/10.1016/j.agrformet.2023.109364](https://doi.org/10.1016/j.agrformet.2023.109364)
