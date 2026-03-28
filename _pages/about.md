@@ -30,6 +30,13 @@ Specifically, my research interests include:
 Recent News:
 ======
 
+<small>
+|            |  |
+|:---------- |:------|
+| March 20, 2026 | Submitted a proposal on ***interdisciplinary studies of trade-offs between environmental and economic benefits of biofuels in agroforestry systems***. Excited to collaborate with the team and grateful for Prof. [Dean Current](https://cinram.umn.edu/dean-current)’s leadership! |
+| March 14, 2026 | [A paper](https://doi.org/10.1016/j.jhydrol.2026.135327) titled ***Drought rather than nitrogen addition drives the coordination of hydraulic conductivity and photosynthesis in three coniferous tree species***, led by Ph.D. student Jinyuan Tian whom I mentored, has been accepted by *Journal of Hydrology*. Congratulations to all the authors! |
+</small>
+
   * <small>March 20, 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submitted a proposal on ***interdisciplinary studies of trade-offs between environmental and economic benefits of biofuels in agroforestry systems***. Excited to collaborate with the team and grateful for Prof. [Dean Current](https://cinram.umn.edu/dean-current)’s leadership!</small>
 
   * <small>March 14, 2026  [A paper](https://doi.org/10.1016/j.jhydrol.2026.135327) titled ***Drought rather than nitrogen addition drives the coordination of hydraulic conductivity and photosynthesis in three coniferous tree species***, led by Ph.D. student Jinyuan Tian whom I mentored, has been accepted by *Journal of Hydrology*. Congratulations to all the authors!</small>
