@@ -9,8 +9,9 @@ author_profile: true
 
 National Working Group
 ======
-* 2023-present   Artificial Intelligence for Natural Methane Working Group (AI4NM, ESIIL)
 * 2024-present   USDA Artificial Intelligence Research Institute for Land, Economy, Agriculture, and Forestry (AI-LEAF)
+* 2023-present   Artificial Intelligence for Natural Methane Working Group (AI4NM, ESIIL)
+* 2023 Artificial Intelligence for the Methane Cycle Workshop, Department of Energy
   
 <div style="height: 5px;"></div>
 
