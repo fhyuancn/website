@@ -13,7 +13,6 @@ Education
 ======
 * Ph.D in Ecology (Ecometeorology), University of Chinese Academy of Sciences
 * M.Sc in Ecology (Ecometeorology), Graduate School of University of Chinese Academy
-* B.Sc in Forestry, University of Shandong Agriculture
 
 Work experience
 ======
@@ -22,7 +21,6 @@ Work experience
 * 2020-24: Postdoctoral Associate, University of Minnesota
 * 2018-20: Postdoctoral Fellow, San Diego State University
 * 2013-18: Assistant Professor, Chinese Academy of Sciences
-* 2008-10: Research Associate, Chinese Academy of Sciences
 
 Research
 ======
@@ -62,7 +60,7 @@ Service and leadership
 
 <div style="height: 5px;"></div>
 * Society Membership
-  * 2020--present   American Geophysical Union (AGU)
-  * 2021--present   Ecological Society of America (ESA)
-  * 2023--present   American Meteorological Society (AMS)
-  * 2022--present   European Geosciences Union (EGU)
+  * American Geophysical Union (AGU)
+  * Ecological Society of America (ESA)
+  * American Meteorological Society (AMS)
+  * European Geosciences Union (EGU)
