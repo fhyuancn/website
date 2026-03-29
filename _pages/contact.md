@@ -3,6 +3,7 @@ title: "Contact"
 layout: single
 permalink: /contact/
 author_profile: true
+hide_title: true
 ---
 
 <div style="height: 30px;"></div>
