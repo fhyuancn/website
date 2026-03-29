@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-{: .small}
 1. 2026 [Data and code](https://figshare.com/articles/dataset/Taxonomic_and_functional_diversity/29150900) associated with the paper "Scale dependence of genome-derived microbial functional diversity informing soil functions", published in *Geoderma*.
 2. 2025 [Data and code](https://zenodo.org/records/15618165) associated with the paper "Biophysical effects of wetlands: Latitudinal and seasonal Variability" , published in *Global Change Biology*.
 3. 2025  [Data and code](https://figshare.com/s/c003f2fb5a8e5723632d) associated with the paper "Warming-independent shortened snow cover duration enhances vegetation greening across northern permafrost region", published in *npj Communications Earth & Environment*.
@@ -15,26 +14,26 @@ author_profile: true
 7. 2023 [Genomic data](https://dataview.ncbi.nlm.nih.gov/object/PRJNA853804) associated with the paper "Environmental stress stimulates microbial activities as indicated by cyclopropane fatty acid enhancement", published in *Science of The Total Environment*.
 8. 2023 [Global data](https://doi.org/10.6084/m9.figshare.17451893.v1) associated with the paper "The global biogeography of soil priming effect intensity", published in *Global Ecology and Biogeography*.
 9. 2022 [Genomic data](https://dataview.ncbi.nlm.nih.gov/object/PRJNA853804) associated with the paper "Metagenomic evidence of suppressed methanogenic pathways along soil profile after wetland conversion to cropland", published in *Frontiers in Microbiology*.
-
+{: .text-small}
 
 <div style="height: 3px;"></div>
 
 Under Review/In Preparation
 ======
 
-{: .small}
 1. **Yuan F**., et al. 2026. KGML-ELM: A Knowledge-Guided Machine Learning Framework for Modeling Long-Term Interannual Variability of Peatland Methane Emissions (to be submitted).
 2. **Yuan F**., et al. 2026. Improving Energy Flux Simulations in Tropical Peatlands Using a Multilayer Canopy Model (to be submitted).
 3. Zeng F., **Yuan F**., et al. 2026. Disentangling the Architectural Bias in Modeling Interannual Peatland Methane Variability (under review).
 4. Guo Z., **Yuan F**., et al. 2026. Agricultural Impacts on Soil Particulate Organic Carbon: The Role of Edaphic Factors in Global Tillage and Fertilization Responses. *Land Degradation & Development* (under minor revision).
+{: .text-small}
 
 <div style="height: 5px;"></div>
 
 Selected Publications
 ======
 
-{: .small}
 The full list of my publications can be found on <a href="https://scholar.google.com/citations?user=vVyoWNgAAAAJ&hl=en">my Google Scholar profile</a>.
+{: .text-small}
 
 <div style="height: 5px;"></div>
 
