@@ -57,10 +57,10 @@ small, .small {
   font-size: $type-size-6; // smallest heading, old: $type-size-6;
 }
 
-/* Target small lists generated in Markdown */
-ol.small,
-ol.small li {
-  font-size: $type-size-5; /* or $type-size-4 */
+/* Target all elements with .small inside Markdown content */
+.markdown-body .small,
+.markdown-body .small * {
+  font-size: $type-size-4; /* or $type-size-4 */
 }
 
 p {
