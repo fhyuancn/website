@@ -30,7 +30,6 @@ Specifically, my research interests include:
 News
 ======
 
-{: .small}
 |                 |  |
 |:--------------- |:------|
 | March 20, 2026 | Submitted a proposal on ***interdisciplinary studies of trade-offs between environmental and economic benefits of biofuels in agroforestry systems***. Excited to collaborate with the team and grateful for Prof. [Dean Current](https://cinram.umn.edu/dean-current)’s leadership! |
@@ -49,3 +48,4 @@ News
 | April 14, 2025 | [A paper](https://doi.org/10.3389/fpls.2025.1574468) titled ***Unravelling the combined effects of drought and nitrogen addition on carbon assimilation and reserves in Korean pine saplings***, led by Ph.D. student Jin whom I mentored, has been accepted by *Frontiers in Plant Science*. Congratulations to all the authors!
 | February 19, 2025 | Awarded a **seed grant** from CFANS. Excited to work with the team led by Prof. <a href="https://cinram.umn.edu/dean-current">Dean Current</a> and Prof. <a href="https://bti.umn.edu/directory/satoshi-ishii">Satoshi Ishii</a>!
 | January 7, 2025  | [A paper](https://doi.org/10.3389/fenvs.2024.1505987) titled ***Modeling Soil Respiration in Summer Maize Cropland Based on Hyperspectral Imagery and Machine Learning***, led by Master’s student Fanchao Zeng and co-mentored by Prof. Fuqi Yao and myself, has been accepted by *Frontiers in Environmental Science*. Congratulations!
+{: .text-small}
