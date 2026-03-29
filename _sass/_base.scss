@@ -53,14 +53,12 @@ h6 {
   font-size: $type-size-7; // smallest heading, old: $type-size-6;
 }
 
-small, .small {
-  font-size: $type-size-6; // smallest heading, old: $type-size-6;
+small { 
+  font-size: $type-size-6; 
 }
 
-/* Target all elements with .small inside Markdown content */
-.markdown-body .small,
-.markdown-body .small * {
-  font-size: $type-size-4; /* or $type-size-4 */
+.text-small { 
+  font-size: $type-size-5; 
 }
 
 p {
