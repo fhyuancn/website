@@ -7,10 +7,10 @@ author_profile: true
 
 <div style="height: 30px;"></div>
 
-Fenghui Yuan
-Department of Soil, Water & Climate
-University of Minnesota – Twin Cities
-Address: 439 Borlaug Hall 1991 Upper Buford Circle St. Paul, MN 55108
+Fenghui Yuan<br>
+Department of Soil, Water & Climate<br>
+University of Minnesota – Twin Cities<br>
+Address: 439 Borlaug Hall 1991 Upper Buford Circle St. Paul, MN 55108<br>
 Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
 {: .text-small}
 
