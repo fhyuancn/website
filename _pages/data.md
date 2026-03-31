@@ -16,3 +16,10 @@ author_profile: true
 8. 2023 [Global data](https://doi.org/10.6084/m9.figshare.17451893.v1) associated with the paper "The global biogeography of soil priming effect intensity", published in *Global Ecology and Biogeography*.
 9. 2022 [Genomic data](https://dataview.ncbi.nlm.nih.gov/object/PRJNA853804) associated with the paper "Metagenomic evidence of suppressed methanogenic pathways along soil profile after wetland conversion to cropland", published in *Frontiers in Microbiology*.
 {: .text-small}
+
+
+Work Site
+====
+* [PE-QFR: Quistococha Forest Reserve, Peru](https://ameriflux.lbl.gov/sites/siteinfo/PE-QFR#overview)
+* [Marcell Bog Lake Experimental Site](https://ameriflux.lbl.gov/doi/AmeriFlux/US-MBP/)
+* [SPRUCE S1 Bog Forest](https://mnspruce.ornl.gov/datasets/public)
