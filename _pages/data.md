@@ -1,5 +1,5 @@
 ---
-title: "Data and code"
+title: "Data & Code"
 layout: single
 permalink: /data/
 author_profile: true
