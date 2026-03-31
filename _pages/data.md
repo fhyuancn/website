@@ -21,5 +21,5 @@ author_profile: true
 Work Site
 ====
 * [PE-QFR: Quistococha Forest Reserve, Peru](https://ameriflux.lbl.gov/sites/siteinfo/PE-QFR#overview)
-* [Marcell Bog Lake Experimental Site](https://ameriflux.lbl.gov/doi/AmeriFlux/US-MBP/)
-* [SPRUCE S1 Bog Forest](https://mnspruce.ornl.gov/datasets/public)
+* [US-MBP: Marcell Bog Fen Site](https://ameriflux.lbl.gov/doi/AmeriFlux/US-MBP/)
+* [SPRUCE: US Forest Service S1 Bog Forest](https://mnspruce.ornl.gov/datasets/public)
