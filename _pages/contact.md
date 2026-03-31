@@ -12,7 +12,7 @@ Fenghui Yuan<br>
 Department of Soil, Water & Climate<br>
 University of Minnesota – Twin Cities<br>
 Address: 439 Borlaug Hall 1991 Upper Buford Circle St. Paul, MN 55108<br>
-Email: [fyuan#umn.edu](mailto:fyuan@umn.edu)
+Email: [fyuan@umn.edu](mailto:fyuan@umn.edu)
 {: .text-small}
 
 
