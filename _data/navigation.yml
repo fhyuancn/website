@@ -6,12 +6,12 @@ main:
   
    - title: "Teaching & Mentoring"
      url: /teaching/ 
-    
-   - title: "Publication"
-     url: /publication/
 
    - title: "Presentation"
      url: /talks/    
+    
+   - title: "Publication"
+     url: /publication/
 
    - title: "Data & Code"
      url: /data/    
