@@ -3,6 +3,7 @@ title: "Publication"
 permalink: /publication/
 layout: single
 author_profile: true
+hide_title: true
 ---
 
 Under Review/In Preparation
