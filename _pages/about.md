@@ -32,6 +32,7 @@ News
 
 |                 |  |
 |:--------------- |:------|
+| March 30, 2026 | [An editorial article](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1839415) for the special section ***Assessing Greenhouse Gas Emissions at City and Regional Levels: Challenges and Methods*** has just been published online in *Frontiers in Environmental Science*. It was a pleasure working with Dr. [Cheng Hu](https://scholar.google.com/citations?user=RabAINkAAAAJ&hl=en) and other colleagues to bring this together! |
 | March 20, 2026 | Submitted a proposal on ***interdisciplinary studies of trade-offs between environmental and economic benefits of biofuels in agroforestry systems***. Excited to collaborate with the team and grateful for Prof. [Dean Current](https://cinram.umn.edu/dean-current)’s leadership! |
 | March 14, 2026 | [A paper](https://doi.org/10.1016/j.jhydrol.2026.135327) titled ***Drought rather than nitrogen addition drives the coordination of hydraulic conductivity and photosynthesis in three coniferous tree species***, led by Ph.D. student Jinyuan Tian whom I mentored, has been accepted by *Journal of Hydrology*. Congratulations to all the authors! |
 | March 9, 2026 | Invited to give a seminar on ***Constraining Peatland Methane Emission Uncertainty with Hybrid Models*** at the Department of Biology, San Deigo State University.
