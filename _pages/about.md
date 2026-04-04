@@ -13,7 +13,7 @@ redirect_from:
 
 Hello! My name is **Fenghui** (pronounced "fown-hui").
 
-My work focuses on understanding water–carbon dynamics in natural and agricultural ecosystems as the environment changes using interdisciplinary approaches. I combine field observations, experiments, and process-based modeling with data-driven approaches in **a Model–Experiment Integration (ModEx) framework** to reduce uncertainties in predicting how ecosystems respond. Through this work, I also engage in teaching and mentoring, helping students and collaborators develop skills in ecosystem science and modeling.
+My work focuses on understanding water–carbon dynamics in natural and agricultural ecosystems as the environment changes using interdisciplinary approaches. I combine field observations, experiments, and process-based modeling with data-driven approaches in **a Model–Experiment (ModEx) Integration framework** to reduce uncertainties in predicting how ecosystems respond. Through this work, I also engage in teaching and mentoring, helping students and collaborators develop skills in ecosystem science and modeling.
 
 Specifically, my research interests include:
 
