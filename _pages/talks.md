@@ -10,12 +10,12 @@ Talk
 ======
 
 * 2026 **Yuan F**. Invited Seminar, Constraining peatland Methane Emission Uncertainty with Hybrid Models, Department of Biology, San Deigo State University
-* 2025 **Yuan F**., et al. Integrating Bottom-Up and Top-Down Modeling for Verifying Regional Greenhouse Gas Emissions. AI-LEAF Annual Meeting, Fort Collins, CO
-* 2024 **Yuan F**., et al. Observation-based Modeling of Methane Fluxes in an Amazonian Peruvian Peatland. 17th International Peatland Congress. Taizhou, China
-* 2023 **Yuan F**., et al. The Extended Modeling Efforts of ELM_SPRUCE Beyond the SPRUCE Bog Over the Past Year. SPRUCE All Hands Meeting, Minneapolis, MN
-* 2023 **Yuan F**., et al. Impact of Different Canopy Schemes in the E3SM Land Model on Energy and Carbon Flux Simulations in an Amazonian Swamp Peatland. American Meteorological Society (AMS) Atmospheric Biogeosciences Meeting, Minneapolis, MN
-* 2022 **Yuan F**., et al. Spatiotemporal Heterogeneity of Methane Emissions in Peruvian Amazonian Peatlands: A Modeling Approach. AGU Fall Meeting. Chicago, IL
-* 2019 **Yuan F**., et al. Warming and Elevated CO2 Stimulate CH4 Emission with Different Mechanisms in a Temperate Peatland. Ecological Society of America (ESA) Annual Meeting. Louisville, KY
+* 2025 **Yuan F**. Integrating Bottom-Up and Top-Down Modeling for Verifying Regional Greenhouse Gas Emissions. AI-LEAF Annual Meeting, Fort Collins, CO
+* 2024 **Yuan F**. Observation-based Modeling of Methane Fluxes in an Amazonian Peruvian Peatland. 17th International Peatland Congress. Taizhou, China
+* 2023 **Yuan F**. The Extended Modeling Efforts of ELM_SPRUCE Beyond the SPRUCE Bog Over the Past Year. SPRUCE All Hands Meeting, Minneapolis, MN
+* 2023 **Yuan F**. Impact of Different Canopy Schemes in the E3SM Land Model on Energy and Carbon Flux Simulations in an Amazonian Swamp Peatland. American Meteorological Society (AMS) Atmospheric Biogeosciences Meeting, Minneapolis, MN
+* 2022 **Yuan F**. Spatiotemporal Heterogeneity of Methane Emissions in Peruvian Amazonian Peatlands: A Modeling Approach. AGU Fall Meeting. Chicago, IL
+* 2019 **Yuan F**. Warming and Elevated CO2 Stimulate CH4 Emission with Different Mechanisms in a Temperate Peatland. Ecological Society of America (ESA) Annual Meeting. Louisville, KY
 {: .h3}
 
 <div style="height: 15px;"></div>
