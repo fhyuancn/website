@@ -9,6 +9,7 @@ author_profile: true
 Talk
 ======
 
+* 2026 ***Multiscale Carbon Flux Modeling Integrating AI-Enhanced Process-Based and Atmospheric Inversion Approaches***. AI-LEAF Annual Meeting, Washington, DC
 * 2026 Invited Seminar: ***Constraining peatland Methane Emission Uncertainty with Hybrid Models***, Department of Biology, San Deigo State University
 * 2025 ***Integrating Bottom-Up and Top-Down Modeling for Verifying Regional Greenhouse Gas Emissions***. AI-LEAF Annual Meeting, Fort Collins, CO
 * 2024 ***Observation-based Modeling of Methane Fluxes in an Amazonian Peruvian Peatland***. 17th International Peatland Congress. Taizhou, China
@@ -24,6 +25,7 @@ Talk
 Poster
 ======
 
+* 2026 **Yuan F**., et al. ***Multiscale Carbon Flux Modeling Integrating AI-Enhanced Process-Based and Atmospheric Inversion Approaches***. AI-LEAF Annual Meeting, Washington, DC
 * 2025 **Yuan F**., et al. ***Integrating Bottom-Up and Top-Down Modeling for Verifying Regional Greenhouse Gas Emissions***. AI-LEAF Annual Meeting, Fort Collins, CO
 * 2025 Oh Y., Liu L., Zhu Q., ..., **Yuan F**., et al. ***Next-Generation Modeling of Global Natural Methane Fluxes: Integrating Multi-scale Observations with Knowledge-Guided Machine Learning***. AGU Fall Meeting. New Orleans, LA
 * 2025 Xu X., Zhang J., Wang Y., ..., **Yuan F**., et al. ***Interactive Impacts of Drought and Warming on CH4 Cycling in a Temperate Bog***. SPRUCE All Hands Meeting, Minneapolis, MN
